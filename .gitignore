@@ -37,3 +37,6 @@ Thumbs.db
 
 # Makefun
 .makefun/
+makefun.mjs
+transcripts_new.tar.gz
+transcripts.tar.gz
